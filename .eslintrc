@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "wesbos/typescript"
+  ],
+  "rules": {
+    "no-console": 2
+  }
+}

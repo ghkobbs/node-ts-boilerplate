@@ -1,0 +1,13 @@
+node_modules/
+src/Assets/img/ticket-ad.psd
+src/Assets/img/advertisements/*
+src/Assets/img/movies/*
+src/Assets/img/news/*
+src/Assets/img/posters/*
+src/Assets/img/profile/*
+src/Assets/img/slider/*
+src/Assets/img/uploads/*
+logs/*.log
+.env
+process.yml
+.DS_Store
